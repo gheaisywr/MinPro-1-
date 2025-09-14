@@ -6,7 +6,7 @@ Prodi : Sistem Informasi (A)
 # *Flowchart Sistem Pencatat Password Aplikasi*
 <img width="1456" height="1127" alt="MinPro 1 Flowchart Program Sistem Pencatat Password Aplikasi  drawio (1)" src="https://github.com/user-attachments/assets/3195d217-c7d1-42b6-abcf-b8e49d5934bc" />
 
-**Penjelasan Flowchart**
+**Penjelasan Flowchart & Code**
 
 **1. Mulai**
 
